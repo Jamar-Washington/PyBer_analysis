@@ -3,6 +3,9 @@
 ## Overview of the analysis:
 In the PyBer project, we are are working with data in CSV files for our new job at PyBer. We want to visualize the data that we are provided with. In order to do so, we will be using Pandas, Matplotlib, and Jupyter Notebook. We want to look at the relationship between the number of drivers, number of rides, the type of city, and the fares of the rides. This way, we are able to help Pyber how to give riders better access while keeping it affordable.
 
+### Tools used in the project
+**Jupyter Notebook** 
+
 ## Results:
 
 ### Differences in city type data with 
